@@ -25,7 +25,7 @@ Please follow the instructions on the official PyTorch website (https://pytorch.
 
 1. `git clone https://github.com/andy998244353/ortho-rectified-texture-reconstruction.git`
 2. `cd ortho-rectified-texture-reconstruction/build`
-4. `cmake -G "MinGw Makefiles" ..`
+4. `cmake -G "MinGW Makefiles" ..`
 5. `cmake .` (You can also use the `-j <num-threads>` option to enable parallel compilation.)
 
 ## Run on our datasets
